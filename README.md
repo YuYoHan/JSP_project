@@ -39,7 +39,7 @@
 
 블로그에는 들어간 로직프로세스와 핵심 컨셉이였던 API와 swiper 사용을 위주로 설명 할 것이다. 
 
-### [마이리얼트립  전체 소스코드 보기](https://github.com/km2535/myrealtrip)
+### [마이리얼트립  전체 소스코드 보기](https://github.com/YuYoHan/Myrealtrip_project)
 
 ### 전체적인 구성
 ![](https://velog.velcdn.com/images/km2535/post/37f7e653-c69a-4472-9d9e-d93590f702a6/image.png)
