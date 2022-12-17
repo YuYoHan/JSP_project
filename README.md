@@ -6,7 +6,6 @@
 ![](https://velog.velcdn.com/images/km2535/post/8ccc3244-4955-48e0-80ad-ddb388222d54/image.jpg)
 
 ## 스토리 보드
-![](https://velog.velcdn.com/images/km2535/post/8e124f17-d2e8-49c6-b72f-aec004706f72/image.jpg)
 ![](https://velog.velcdn.com/images/km2535/post/419a294f-4b24-4dfb-9cea-b1fa542f8a0f/image.jpg)
 ![](https://velog.velcdn.com/images/km2535/post/419a294f-4b24-4dfb-9cea-b1fa542f8a0f/image.jpg)
 ![](https://velog.velcdn.com/images/km2535/post/79a3874b-4f63-4d97-8cd7-b20811605dd3/image.jpg)
