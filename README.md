@@ -7,8 +7,8 @@
 
 ## 스토리 보드
 ![](https://velog.velcdn.com/images/km2535/post/8e124f17-d2e8-49c6-b72f-aec004706f72/image.jpg)
-![](https://velog.velcdn.com/images/km2535/post/536d332d-d389-4b72-9763-1e8b7f53975c/image.jpg)
-
+![](https://velog.velcdn.com/images/km2535/post/419a294f-4b24-4dfb-9cea-b1fa542f8a0f/image.jpg)
+![](https://velog.velcdn.com/images/km2535/post/419a294f-4b24-4dfb-9cea-b1fa542f8a0f/image.jpg)
 ![](https://velog.velcdn.com/images/km2535/post/79a3874b-4f63-4d97-8cd7-b20811605dd3/image.jpg)
 ![](https://velog.velcdn.com/images/km2535/post/350e1bcf-79c0-4157-8bc1-c664478d6110/image.jpg)
 ![](https://velog.velcdn.com/images/km2535/post/b220bf5b-11e8-4a61-91e2-364d5fb02efe/image.jpg)
