@@ -3,6 +3,13 @@
 ## 프로젝트 소개
 이번 프로젝트 완료 후 브리핑 할 때 쓰던 자료이다. 
 프로젝트에 대한 간단한 소개이다. 
+![image](https://user-images.githubusercontent.com/110465572/208228341-050ad3d5-bfa8-4014-ad59-7c2ba99af588.png)
+
+
+
+
+
+
 ![](https://velog.velcdn.com/images/km2535/post/8ccc3244-4955-48e0-80ad-ddb388222d54/image.jpg)
 
 ## 스토리 보드
